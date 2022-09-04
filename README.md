@@ -1,5 +1,12 @@
-# Getting Started with Create React App
+# https://baranozgurtas.com/
 
+# Applied technologies
+In this project applied technologies are:
+
+- JavaScript
+- React.js
+- Bootstrap
+- HTML/CSS
 
 # Available Scripts
 In the project directory, you can run:
